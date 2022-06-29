@@ -21,6 +21,10 @@ a:hover {
     text-decoration: underline;
 }
 
+h1 > a:hover {
+    text-decoration: none;
+}
+
 header {
     padding-top: 30px;
     padding-bottom: 30px;
